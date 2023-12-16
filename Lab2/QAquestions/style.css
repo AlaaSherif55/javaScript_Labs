@@ -1,0 +1,28 @@
+.myh1{
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 100px;
+    text-align: center;
+    color: rgb(119, 0, 255);
+}
+
+
+.botn{
+    text-align: center;
+    padding: 50px;
+}
+
+.botn button{
+    border: 1px solid #000;
+    background-color: black;
+    color: white;
+    transition: 1s;
+    padding: 15px 30px;
+}
+.botn button:hover{
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    cursor: pointer;
+    font: 25px bold;
+}
